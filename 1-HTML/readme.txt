@@ -33,7 +33,7 @@ Commenti:
     command + shift + 7 su macOS
 
 
-URL in ricette                                      ->      path del FS
+URL in rete                                      ->      path del FS
 http://127.0.0.1:5500/index.html                            /Users/kutta/Desktop/1-HTML/index.html
 http://127.0.0.1:5500/about.html                            /Users/kutta/Desktop/1-HTML/about.html
 http://127.0.0.1:5500/ricette/carbonara.html                /Users/kutta/Desktop/1-HTML/ricette/carbonara.html
