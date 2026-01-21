@@ -133,7 +133,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section
 
 
 
-
+# Esercizio
+vai sulla pagina dell'ansa https://www.ansa.it/?refresh_ce e prova a strutturare la pgina tramite tag semantici.
 
 
 
