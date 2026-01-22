@@ -1,0 +1,30 @@
+/* 
+.container {
+    color: red;
+}
+*/
+
+
+/*
+.container {
+    background-color: rgb(255, 0, 0);
+    background-color: rgba(255, 0, 0, 1.0);
+
+    background-color: #ff0000;
+    background-color: #ff0000ff;
+
+    background-image: url("https://img.freepik.com/foto-gratuito/la-faccia-divertente-del-cane-whippet-in-primo-piano-sul-blu_23-2151988916.jpg?semt=ais_user_personalization&w=740&q=80");
+    background-image: linear-gradient(130deg,rgb(219, 18, 206) 0%, rgb(29, 41, 219) 100%);
+}
+*/
+
+/*
+body {
+    background-color: green;
+}
+
+.container {
+    background-color: red;
+    opacity: 1.0;   da 0.0 a 1.0
+}
+*/
