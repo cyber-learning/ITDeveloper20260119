@@ -62,3 +62,7 @@ Gli elementi inline non rispettano il box model
 
 
 Un elemento inline-block è un elemento block su cui posso applicare tutte le proprietà del box-model
+
+
+
+
