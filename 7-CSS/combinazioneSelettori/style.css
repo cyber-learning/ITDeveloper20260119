@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+.container p {
+    background-color: red;
+}
+
+.container > p {
+    background-color: red;
+}
+*/
+
+/*
+h1, h2, .paraBello {
+    padding: 24px;
+    background-color: red;
+}
+*/
+
+
+/*
+.bg-red {
+    background-color: red;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-green {
+    color: green;
+}
+*/
+

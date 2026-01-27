@@ -1,37 +1,116 @@
+/*
+a partire da un minimo width di schermo di 0px in su
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/*
-.container p {
+p {
     background-color: red;
 }
 
-.container > p {
-    background-color: red;
+a partire da un minimo width di schermo di 600px in su
+@media screen and (min-width: 600px) {
+    p {
+        background-color: blue;
+    }
+}
+
+a partire da un minimo width di schermo di 900px in su
+@media screen and (min-width: 900px) {
+    p {
+        background-color: yellow;
+    }
 }
 */
 
+
 /*
-h1, h2, .paraBello {
-    padding: 24px;
-    background-color: red;
+a partire da un minimo width di schermo di 0px in su
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
-*/
 
-
-/*
 .bg-red {
     background-color: red;
 }
 
-.text-white {
-    color: white;
+a partire da un minimo width di schermo di 600px in su
+@media screen and (min-width: 600px) {
+    .bg-600-blue {
+        background-color: blue;
+    }
 }
 
-.text-green {
-    color: green;
+a partire da un minimo width di schermo di 900px in su
+@media screen and (min-width: 900px) {
+    .bg-900-yellow {
+        background-color: yellow;
+    }
 }
 */
+
+/*
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+@media screen and (min-width: 700px) {
+
+    .w-700-60 {
+        width: 60%;
+    }
+
+    .w-700-40 {
+        width: 40%;
+    }
+}
+*/
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* .icon {
+    font-size: 32px;
+    color: red;
+} */
+
+.btn-circle {
+    margin: 48px;
+
+    border: none;
+    box-shadow: 0px 6px 23px -7px rgba(0, 0, 0, 0.8);
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+    background-color: rgb(224, 0, 138);
+
+    font-size: 1.25rem;
+    color: white;
+}
