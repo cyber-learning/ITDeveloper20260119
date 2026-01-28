@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+p {
+    border: 2px solid red;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    
+}
+*/
+
+/*
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post {
+    border: 2px solid red;
+    width: 50%;
+}
+
+.post img {
+    width: 100%;
+    background-color: #424242;
+    object-fit: scale-down;
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+*/
+
+/*
+img {
+    width: 900px;
+    height: 400px;
+
+    object-fit: contain;
+    background-color: #424242;
+}
+*/
